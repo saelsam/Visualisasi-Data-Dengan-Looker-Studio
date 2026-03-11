@@ -4,6 +4,13 @@
 
 [Lihat] (https://lookerstudio.google.com/reporting/d0618894-5998-4078-a595-f17db177c398/page/CbkrF/edit)
 
-[Sumber Data] (https://www.kaggle.com/datasets/abidhussai512/global-economic-indicators-dataset)
+
+## Data Source
+
+The dataset used in this project is licensed under CC BY-SA 4.0.
+
+Source: [!Global_Economic_Indicators Dataset] (https://www.kaggle.com/datasets/abidhussai512/global-economic-indicators-dataset)
+
+License: https://creativecommons.org/licenses/by-sa/4.0/
 
 
