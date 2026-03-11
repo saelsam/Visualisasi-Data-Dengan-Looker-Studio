@@ -9,7 +9,7 @@
 
 The dataset used in this project is licensed under CC BY-SA 4.0.
 
-Source: [!Global_Economic_Indicators Dataset] (https://www.kaggle.com/datasets/abidhussai512/global-economic-indicators-dataset)
+Source: [Global_Economic_Indicators Dataset](https://www.kaggle.com/datasets/abidhussai512/global-economic-indicators-dataset)
 
 License: https://creativecommons.org/licenses/by-sa/4.0/
 
